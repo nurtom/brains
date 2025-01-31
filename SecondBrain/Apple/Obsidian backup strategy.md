@@ -14,3 +14,20 @@ mode: private
 - When adding notes on mobile
 	- push from macOS (syncs automatically via git) and then pull on windows is necessary
 - Checkout Obsidian community plugin for git: https://apps.apple.com/de/app/moom-classic/id419330170?mt=12 to maybe automate pull/push
+
+> [!warning]
+> start with a clean repo using this ```.gitignore``` to ignore the Obsidian workspace folder
+>```bash
+>SecondBrain/.obsidian
+>SecondBrain/.trash
+>SecondBrain/DS_Store
+>.obsidian
+>.trash
+>DS_Store
+>```
+
+
+
+
+
+
