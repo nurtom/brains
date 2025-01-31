@@ -1,0 +1,8 @@
+- Sebastians Branch müsste eigentlich ausreichen, kann er aber nicht für garantieren
+- müsste stück für Stück weiter angepaast werden
+- Zum Testen vorgehen: 
+	- Mich selbst als Rufbereitschaft eintragen (da nur für die NNutzer relevant)
+	- dann Message importieren und dann schauen ob die initiale Push kommt und in der post_user_flags schauen dass die Erinnerungen kommen (cron)
+	- Problem ist: Wenn Christoph RF hat, dann hat er nur für DAMA und wenn dann eine Mail für Glasfaser kommt ist die für ihn unsichtbar, aber er hat die Erinnerung für ungelesene Mitteilungen bekommen (nicht initiale Benachrichtigung, ssondern Reminder)
+		- Aktueller Ansatz vom Sebastian im Bugfix-Branch: Initiale Import bei post_user_flag: erst prüfen ob die Nachricht in einem View für den Nutzer überhaupt angezeigt werden würden (Jeder aktive Rufbereitschaftler wird durchgegangen und geprüft ob er diesen Post oder View überhaupt sieht)
+- Zusatz: Glocken-Icon größer ziehen oder Button

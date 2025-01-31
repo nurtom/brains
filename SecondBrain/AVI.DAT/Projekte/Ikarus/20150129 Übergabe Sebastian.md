@@ -1,0 +1,12 @@
+- https://10.9.53.237/ikarus
+- Uralt
+- Inhaltlich kennt sich Sebastian auch nicht wirklich aus
+- Es existiert nur das produktive Frontend
+- läuft auf Windows via ASP (kein PHP)
+- Micha Dassow hat eventuell Ahnung
+- Ladesteuerung für externe User die darüber Skripte auf unseren Servern einstellen/ausführen können
+- Nutzerzugang müssen wir über Admins im Bedarfsfall besorgen
+- Es gibt kein Git-Projekt, es gibt nur Live
+- letzte vor 8 Jahren, Fehlerbehebung
+- Deployed auf 10.9.53.237 (Windows: RDP)
+	- ```c:\inetpub\wwwroot\ikarus``` eventuell ```c:\inetpub\wwwroot\um``` als User Management wahrscheinlich auch für Ikarus User

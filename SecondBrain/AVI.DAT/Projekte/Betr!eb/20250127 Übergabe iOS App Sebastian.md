@@ -1,0 +1,10 @@
+- Eher ein Prozess als ein Projekt
+- Einstiegspunkt: AppDelegate
+- Todo: PLA Update steht noch aus (Mike), ohne kann das Build nicht für den Release im Store signiert werden
+- https://native.hotwired.dev/ios/getting-started (SceneDelegate)
+- .p8 Key liegt auf Prod apns.avi-dat.de
+- An die Notification können noch Actions angefügt werden: https://developer.apple.com/documentation/usernotifications/declaring-your-actionable-notification-types, für Nachrichten die Bimmeln, musste früher ein gelesen Status gesetzt werden. Das könne man jetzt auch wieder machen (aktuell muss man ein Alarmglockenicon manuell drücken um den Alarm abzustellen)
+- Aktuelle Anforderung: Alarmglockenicon größer machen
+- https://appstoreconnect.apple.com für Einreichung Update bzw. App Store Eintrag Management
+- https://developer.apple.com/documentation/usernotifications/sending-notification-requests-to-apns
+- Notifications Apple Backend: https://icloud.developer.apple.com/dashboard/notifications/teams/NCKL6MB3UW/app/de.avi-dat.apns/notifications/create
