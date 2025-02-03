@@ -1,0 +1,4 @@
+- aktuell 86 EUR/qm (seit 1.1.2024)
+- nächte Anpassung 1.1.2026
+- Boris Sachsen (aktuelle Werte): https://geoviewer.sachsen.de/mapviewer/resources/apps/gaa/index.html?lang=de
+- Statistische Einordnung: https://www.bodenrichtwerte-deutschland.de/bodenrichtwert/sachsen/taucha
