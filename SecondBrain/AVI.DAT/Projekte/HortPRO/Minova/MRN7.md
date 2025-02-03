@@ -1,3 +1,5 @@
+#minova 
+
 - Aktuelle Software und Doku beim Hersteller https://minovatech.de/tools/MCRN7-TOOLS.zip
 - Verbindung über neue Software MiExplore
 - DHCP im 79 nötig (Steffen anfragen)
