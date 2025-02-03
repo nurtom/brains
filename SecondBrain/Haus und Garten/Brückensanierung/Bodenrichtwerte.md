@@ -1,6 +1,6 @@
 - aktuell 86 EUR/qm (seit 1.1.2024)
 	- 2021: 60 EUR
-	- 2019: 47 EUR
+	- 2019: 47 EUR (gültig auch 2020 als wir den Bauvorvertrag geschlossen haben, den mit 80 EUR)
 	- 2017: 37 EUR
 	- 2015: 32 EUR
 	- 2013: 30 EUR
