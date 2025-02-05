@@ -14,6 +14,7 @@ const hash = await bcrypt.hash(randomPassword, 10);
 ```
 
 ## Extend jsonwebtoken payload Typescript type
+#typescript
 
 ```typescript
 import * as jwt from 'jsonwebtoken'
