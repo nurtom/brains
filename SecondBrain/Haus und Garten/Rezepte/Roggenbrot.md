@@ -15,6 +15,9 @@ am besten am Abend vorher
 ## Brotteig herstellen
 am besten am nächsten morgen
 
+>[!achtung]
+>Als erstes: Sauerteig abnehmen für das nächste mal abnehmen nicht vergessen!
+
 | Menge      | Zutat                                 |
 | ---------- | ------------------------------------- |
 | __- 150g__ | Sauerteig abnehmen (fürs nächste mal) |
