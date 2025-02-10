@@ -11,92 +11,94 @@ tags:
 ---
 So praktisch das Lastschriftverfahren sein mag: Auch Betrüger mögen es, betroffen waren schon Lidl, die Bahn und zuletzt PayPal. Wir erklären, wie sich Verbraucher und Händler gegen die Kriminellen wehren können.
 
+Die [Lastschrift](https://www.heise.de/select/ct/2024/10/seite-110)  gehört zu den [beliebtesten Zahlarten](https://www.heise.de/select/ct/2024/22/seite-64)  für Verbraucher in Deutschland. Sie ist einfach über die Girokonten von Kunde und Händler umzusetzen, funktioniert zuverlässig online und an der Ladenkasse (online auch ohne Karte), kostet Händler wenig Abzüge und bietet Verbrauchern zunächst einmal ein hohes Schutzniveau gegen Betrug.
 
+>__c't kompakt__
+>- Die Lastschrift ist ein zuverlässiges, kontogestütztes Zahlverfahren, das Verbrauchern und Unternehmern Aufwand und Nerven spart.   
+>- Für Kriminelle reicht es oftmals, eine IBAN zu kennen, um über das Konto Fremder einzukaufen.    
+>- Verbraucher sollten ihre IBAN daher mit Vorsicht weitergeben; Händler können Lastschriftzahlungen auf bereits bekannte Kunden oder niedrige Beträge beschränken.
 
-[
+Doch das Lastschriftverfahren lässt sich missbrauchen, insbesondere beim Kauf in Onlineshops. Als Lidl 2021 Lidl Pay einführte und die Deutsche Bahn 2023 ihr eigenes Angebot für das Deutschlandticket startete, kämpften beide zunächst mit vielen Betrugsfällen. Aktuell steht PayPal im Fokus, weil Betrüger dort fremde Bankverbindungen angegeben und damit per Lastschrift eingekauft haben.
 
-![](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%20472%2088'%20width='472'%20height='88'%20%3E%3C/svg%3E)
+Wir erklären, wie eine Lastschrift für Verbraucher grundsätzlich funktioniert, was sie so verwundbar für Straftaten macht und was Verbraucher und Händler dagegen tun können.
 
-MediaMarkt Gutscheine
+### Wie eine Lastschrift funktioniert
 
-![MediaMarkt](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%2078%2039'%20width='78'%20height='39'%20%3E%3C/svg%3E)
+Anfang der Sechzigerjahre wollte der britische Finanzexperte und Sozialreformer Alastair Hanton Scheckzahlungen durch ein günstigeres und praktischeres Verfahren ersetzen, insbesondere für regelmäßig wiederkehrende Zahlungen wie Miete oder Abonnements. Außerdem sollte man die Zahlung möglichst nicht mehr vergessen können.
 
-](https://gutscheine.spiegel.de/media-markt "MediaMarkt Gutscheine")
+Hanton schlug vor, die Zuständigkeiten umzukehren: Nicht der Kunde sollte die Zahlung auslösen, sondern der Händler oder Dienstleister, dem der Kunde das Geld schuldig ist. Dafür musste der Kunde vorher ein Mandat unterschreiben. Erst dann durfte der Händler die Lastschrift über seine Bank vom Konto des Kunden einziehen. Dieses Prinzip gilt unter den SEPA-Regeln für den einheitlichen Euro-Zahlungsverkehrsraum (Single Euro Payments Area) bis heute für private Verbraucher als sogenannte SEPA-Basislastschrift.
 
-[
+Da die Zahlung direkt von Bankkonto zu Bankkonto fließt, kostet das Verfahren den Händler im besten Fall kaum mehr als eine einzige Überweisung. Der Händler kann bei einem Stammkunden mit demselben Mandat unterschiedlich hohe Beträge einziehen, hat das Geld nach wenigen Tagen auf seinem Konto und falsche Zuordnungen durch Zahlendreher wie bei einer Überweisung gibt es nicht.
 
-![](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%20472%2088'%20width='472'%20height='88'%20%3E%3C/svg%3E)
+SEPA-Lastschriften werden grundsätzlich elektronisch abgewickelt. An der Ladenkasse steckt der Kunde dazu seine Girocard (EC-Karte) in das Lesegerät. Nach Händlervorgaben initiiert das Terminal entweder eine Girocard-Zahlung, die man an der PIN-Eingabe oder kontaktlos erkennt, oder aber eine Lastschrift. Dafür unterschreibt der Kunde auf Papier oder auf einem Display. Zuvor hat das Terminal die IBAN vom Kartenchip ausgelesen und das Lastschriftmandat erstellt, das es anschließend elektronisch bei der Händlerbank einreicht. Das unterschriebene Mandat ermöglicht eine Kontrolle, falls der Kunde später bestreitet, dass es gültig ist.
 
-Saturn Gutscheine
+Im Internethandel kann der Kunde nicht unterschreiben. Dort genügt es nach den Regeln des Bürgerlichen Gesetzbuches, wenn beide Seiten nichts gegen das Mandat einwenden. Einen ähnlichen rechtlichen Grenzfall bilden Unterschriften auf elektronischen Displays an Ladenkassen. Theoretisch darf eine Bank solche Mandate ohne physische Unterschrift zwar ablehnen, praktisch kommt das jedoch nicht vor. Denn das SEPA-Regelwerk empfiehlt ausgedruckte und handschriftlich gezeichnete Mandate lediglich, schreibt sie aber nicht vor. Mandate mit sicherer elektronischer Signatur für Onlinezahlungen, die die SEPA-Regeln ebenfalls als Option kennen, haben sich in der Praxis nicht durchgesetzt.
 
-![Saturn](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%2078%2039'%20width='78'%20height='39'%20%3E%3C/svg%3E)
+Lastschriften darf nicht jeder einreichen. Banken erlauben dies normalerweise nur Inhabern von Geschäfts- und Vereinskonten. Der Kontoinhaber benötigt außerdem eine Gläubiger-Identifikationsnummer. Die erhält er auf Antrag bei der Bundesbank und muss sie zusammen mit der Mandatsreferenznummer bei jeder Lastschrift im Verwendungszweck angeben. So können der Zahler und dessen Institut im Nachhinein prüfen, ob das Mandat gültig ist.
 
-](https://gutscheine.spiegel.de/saturn "Saturn Gutscheine")
+Die Lastschrift muss außerdem die IBAN des Zahlers und dessen Namen enthalten. Die Banken sind allerdings weder gesetzlich noch nach den SEPA-Regeln verpflichtet, beides abzugleichen. Da Händler jeden Tag eine Vielzahl neuer Lastschriften einreichen, tun die Institute dies auch nicht freiwillig. Genau dort setzen Kriminelle an.
 
-[
+> [!Achtung]
+> ## PayPal-Gastzahlung
+> Leserzuschriften an c’t und Pressemeldungen legen nahe, dass derzeit vermehrt PayPal von Lastschriftbetrug betroffen ist. Im Fokus steht dabei die sogenannte Gastzahlung, offiziell »Zahlung ohne PayPal-Konto« genannt, die PayPal Onlinehändlern anbietet. Kunden können damit im Shop selbst dann PayPal als Bezahlart auswählen, wenn sie kein PayPal-Nutzerkonto besitzen.
+>
+>Auf der Log-in-Maske von PayPal stellt der Dienst den Kunden anschließend unterhalb des Log-ins die »Zahlung mit Lastschrift oder Kreditkarte« zur Auswahl. Wir haben das bei Media Markt ausprobiert, dort hätten wir trotz der anderslautenden Beschriftung »Zahlung mit Kreditkarte« (siehe Screenshot) auch per Lastschrift zahlen können.
+>
+>Nach Auswahl der Lastschrift muss der Kunde eine Mailadresse, seine IBAN sowie Adressdaten eingeben und kann ohne PayPal-Konto bezahlen. PayPal gleicht die Daten mit denen bei der Schufa ab. Das können Betrüger aber aushebeln, wenn sie auch die Adressdaten des tatsächlichen Kontoinhabers kennen.
+>
+>Diese Betrugsmasche kann auch Menschen treffen, die ein PayPal-Konto besitzen. Ob PayPal die IBANs mit denen in bestehenden Konten abgleicht, ließ sich der Konzern auf c’t-Anfrage nicht entlocken. Von Datenmissbrauch Betroffene sollten vor dem Widerruf der Lastschrift Anzeige erstatten, Kontakt zum Händler und zu PayPal aufnehmen und den Betrug dort melden, um ein Mahnverfahren zu vermeiden.
+>
+>Darüber hinaus wickelt PayPal für viele Onlinehändler auch normale Lastschriften ab, also solche ohne den Weg über ein PayPal-Nutzerkonto oder die Gastzahlung. Auch diese Lastschriften können Betrüger mit fremden IBANs ausnutzen. In diesem Fall reicht es meist, den Händler zu kontaktieren, so wie wir es unter »Wie Sie sich schützen und wehren« beschreiben.
 
-![](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%20472%2088'%20width='472'%20height='88'%20%3E%3C/svg%3E)
+### Wie Lastschriftbetrug abläuft
 
-eBay Gutscheine
+Zunächst besorgen sich die Täter gültige IBANs, mitunter funktionieren aber auch längst abgelaufene Nummern noch. Meistens kaufen Betrüger diese auf illegalen Marktplätzen im Darknet. Datensätze, die persönliche Angaben der Kontoinhaber wie Namen und Adressen enthalten, erhöhen die Erfolgschancen. So lassen sich zum Beispiel Schufa-Abgleiche aushebeln.
 
-![eBay](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%2078%2039'%20width='78'%20height='39'%20%3E%3C/svg%3E)
+Die Datensätze stammen häufig aus Phishingangriffen. Organisierte Banden schicken den Opfern zum Beispiel Mails oder SMS, die angeblich von deren Bank stammen und die Aufforderung enthalten, sich zu authentifizieren. Die Links in den Phishingmails führen auf Fakewebsites, wo die Kriminellen die Bankdaten abfangen. Selbst wenn es die Täter eigentlich auf Zugangsdaten für das Onlinebanking abgesehen haben, können sie auf diesem Weg erbeutete IBANs plus zugehörige persönliche Daten zusätzlich zu Geld machen.
 
-](https://gutscheine.spiegel.de/ebay "eBay Gutscheine")
+Eine Betrugsvariante führt über Fakeshops, mit denen Kriminelle im Bezahlprozess an die erforderlichen Daten kommen. Auch Datenlecks bei Firmen oder Vereinen kommen als Quelle infrage. Oft vergehen Wochen, mitunter sogar Jahre, zwischen dem Datendiebstahl und einem Lastschriftbetrug. Wie die Täter an die IBAN gekommen sind, lässt sich oft nicht rekonstruieren.
 
-[
+Gestohlene Girocards eignen sich ebenfalls für Lastschriftbetrug. Häufig sind der Name des Inhabers und die IBAN aufgedruckt. Im Laden genügt es, die Karte ins Terminal zu stecken. Das funktioniert allerdings nur, wenn der Laden wie beschrieben das Lastschriftverfahren mit Unterschrift der Girocard-Zahlung vorzieht.
 
-![](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%20472%2088'%20width='472'%20height='88'%20%3E%3C/svg%3E)
+Für den Onlinebetrug selbst benötigen Täter Shops oder Bezahldienste, die keine oder unzureichende Prüfmechanismen für das Lastschriftverfahren nutzen. Die eingangs erwähnten Beispiele Lidl, Deutsche Bahn und PayPal zeigen außerdem, wie die Täter das Geld waschen.
 
-Huawei Gutscheine
+Bei Lidl hinterlegten Betrüger die gestohlenen IBANs in ihrer Lidl-App, kauften damit im Laden Gutscheinkarten oder teure Aktionsware und verhökerten diese im Internet. Bei der Bahn und anderen Verkehrsdienstleistern eröffneten die Täter Nutzerkonten, abonnierten darin Deutschlandtickets und boten diese samt Zugangsdaten als Schnäppchen auf Kleinanzeigenplattformen an. Auch bei der PayPal-Masche kaufen Betrüger gern digitale Gutscheinkarten, Dienstleistungen wie Uber-Lieferungen oder digitale Paketmarken. Die verkaufen sie anschließend weiter.
 
-![HUAWEI](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%2078%2039'%20width='78'%20height='39'%20%3E%3C/svg%3E)
+Die Täter können außerdem physische Waren wie teure Elektronik bestellen und an falsche Adressen liefern lassen. Obwohl viele Händler oder deren Zahlungsdienstleister die IBAN, den Namen und den Wohnort bei der Schufa abgleichen lassen, ist diese Art von Betrug nur geringfügig aufwendiger.
 
-](https://gutscheine.spiegel.de/huawei "Huawei Gutscheine")
+### Wie Sie sich schützen und wehren
 
-[Top Gutscheine](https://gutscheine.spiegel.de/exklusiv "Top Gutscheine") [Alle Shops](https://gutscheine.spiegel.de/alle-shops "Alle Shops")
+Um Ihre Angriffsfläche zu reduzieren, sollten Sie Ihre IBAN nur weitergeben, wenn es unbedingt nötig ist, und sie zum Beispiel von Briefpapier oder E-Mail-Signaturen fernhalten. Trotzdem lassen sich Schäden nicht ausschließen. Um diese frühzeitig zu entdecken, prüfen Sie engmaschig Ihre Kontobewegungen auf nicht nachvollziehbare Umsätze. Ein weiteres Zeichen kann eine Mail von einem Onlinehändler sein, die eine Vorabinformation enthält, dass er in den nächsten Tagen eine Lastschrift einziehen wird, obwohl Sie bei diesem Händler nichts bestellt haben.
 
-Alle Magazine des SPIEGEL
+Normalerweise haben Sie gute Karten. Schließlich haben Sie das Lastschriftmandat nicht autorisiert, und es ist damit ungültig. Für solche Fälle sieht der Gesetzgeber vor, dass Verbraucher die fragliche Lastschrift bis zu 13 Monate lang bei ihrer Bank widerrufen dürfen. Die Bank schreibt Ihnen die Zahlung dann als sogenannte Rücklastschrift wieder gut. Die dafür fälligen Strafentgelte trägt der Händler. Auf dem Rechtsweg können Sie sogar bis zu drei Jahre lang einen Anspruch geltend machen.
 
-- [![Cover: DER SPIEGEL](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%20136%20181'%20width='136'%20height='181'%20%3E%3C/svg%3E)DER SPIEGEL](https://www.spiegel.de/spiegel/print/index-2025.html "DER SPIEGEL")
-- [![Cover: SPIEGEL SPEZIAL](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%20136%20181'%20width='136'%20height='181'%20%3E%3C/svg%3E)SPIEGEL SPEZIAL](https://www.spiegel.de/spiegel/print/index-2025-54.html "SPIEGEL SPEZIAL")
-- [![Cover: SPIEGEL GESCHICHTE](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%20136%20181'%20width='136'%20height='181'%20%3E%3C/svg%3E)SPIEGEL GESCHICHTE](https://www.spiegel.de/spiegel/spiegelgeschichte/index-2025.html "SPIEGEL GESCHICHTE")
-- [![Cover: SPIEGEL COACHING](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%20136%20181'%20width='136'%20height='181'%20%3E%3C/svg%3E)SPIEGEL COACHING](https://www.amazon.de/dp/B0DS5CRSZ6?tag=spiegel1-21 "SPIEGEL COACHING")
-- [![Cover: SPIEGEL CHRONIK](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%20136%20181'%20width='136'%20height='181'%20%3E%3C/svg%3E)SPIEGEL CHRONIK](https://www.spiegel.de/spiegel/spjc/index-2024-1.html "SPIEGEL CHRONIK")
-- [![Cover: S-Magazin](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%20136%20198'%20width='136'%20height='198'%20%3E%3C/svg%3E)S-Magazin](https://www.spiegel.de/spiegel/spsm/index-2023.html "S-Magazin")
-- [![Cover: SPIEGEL BESTSELLER](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%20136%20181'%20width='136'%20height='181'%20%3E%3C/svg%3E)SPIEGEL BESTSELLER](https://www.spiegel.de/spiegel/spbest/index-2024.html "SPIEGEL BESTSELLER")
-- [![Cover: SPIEGEL WISSEN](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%20136%20181'%20width='136'%20height='181'%20%3E%3C/svg%3E)SPIEGEL WISSEN](https://www.spiegel.de/spiegel/spiegelwissen/index-2024.html "SPIEGEL WISSEN")
-- [![Cover: Dein SPIEGEL](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%20136%20175'%20width='136'%20height='175'%20%3E%3C/svg%3E)Dein SPIEGEL](https://www.spiegel.de/spiegel/deinspiegel/index-2024.html "Dein SPIEGEL")
+Wir empfehlen, dass Sie vor einer Rücklastschrift Kontakt mit dem Händler aufnehmen, ihn auf das nicht von Ihnen autorisierte Lastschriftmandat hinweisen und den Widerruf ankündigen. Dabei helfen Ihnen die Mandatsreferenznummer und die Zahlbelegnummer auf dem Kontoauszug. Der Händler weiß normalerweise nicht, dass es sich um Betrug handelt. Wenn Sie die Lastschrift kommentarlos stornieren, könnte er ein Inkassoverfahren einleiten, das allen Seiten viel Arbeit macht. Spätestens dann müssen Sie außerdem widersprechen, wenn Sie keinen Schufa-Eintrag riskieren wollen.
 
-<iframe name="__tcfapiLocator"></iframe>
+Die Rücklastschrift können Sie bei den meisten Banken und Sparkassen im Onlinebanking anstoßen. Der zugehörige Umsatz enthält dann eine Schaltfläche für den Widerruf. Alternativ gehen Sie in eine Filiale oder rufen Ihr Institut an. Erstatten Sie spätestens jetzt Anzeige bei der Polizei, um gegenüber dem Händler oder seinem Inkassodienstleister etwas in der Hand zu haben. Solange die Täter nicht Ihre Karte gestohlen haben, genügt dafür eine Onlinewache. Da die Betrüger Ihre IBAN und Identitätsdaten möglicherweise bei weiteren Händlern missbrauchen, haben Sie auch für andere Fälle schon etwas in der Hand.
 
- ![Computernutzer: Eine Betrugsvariante führt über Fakeshops](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%201600%201067'%20width='1600'%20height='1067'%20%3E%3C/svg%3E "Computernutzer: Eine Betrugsvariante führt über Fakeshops")
+Falls die Täter Ihre Girocard gestohlen haben, sperren Sie diese über Ihr Kreditinstitut oder über die Sperr-Hotline 116 116 zunächst für Girocard-Zahlungen. Danach suchen Sie eine Polizeiwache auf. Nur dort können Sie die Karte über das System KUNO auch für Lastschriften sperren (siehe Kasten). Wird Ihre IBAN weiterhin regelmäßig missbraucht, bleibt Ihnen nur, diese bei Ihrer Bank ändern zu lassen.
 
-Computernutzer: Eine Betrugsvariante führt über Fakeshops
+>[!Achtung]
+>## KUNO, weil die Kartensperrung nicht reicht
+>
+>Wenn Ihnen Ihre Girocard gestohlen wird, müssen Sie diese umgehend telefonisch oder per Chat bei Ihrer Bank sperren lassen. Alternativ können Sie dies für Karten der meisten Institute über den Sperr-Notruf 116 116 tun. Das blockiert aber nur Girocard-Zahlungen, während Lastschriften weiterhin möglich bleiben. Um diese ebenfalls zu unterbinden, müssen Sie Anzeige auf einer Polizeiwache erstatten. Die Onlinewache oder das Telefon reichen in diesem Fall nicht. Bitten Sie dort darum, die Karte und damit Ihre IBAN im System KUNO zu hinterlegen (»Kriminalitätsbekämpfung im unbaren Zahlungsverkehr unter Nutzung nichtpolizeilicher Organisationsstrukturen«, [hier mehr](https://ct.de/y9ad) ). An KUNO sind die Polizei und die meisten Händler in Deutschland angeschlossen.
+>
+>Für die Sperre benötigen Sie neben Ihrer IBAN auch eine sogenannte Kartenfolgenummer. Die bekommen Sie bei Ihrem Kreditinstitut oder entnehmen sie einem Kontoauszug mit einem Lastschriftumsatz, um die sogenannte Kartenfolgenummer parat zu haben. In vielen Bundesländern können Sie diese auch online nachmelden, sofern Ihnen die Polizei eine Sperrbestätigungsnummer aushändigt. Damit können Sie die Sperre auch wieder aufheben.
 
-Foto: Dmitrii Marchenko / Zoonar / picture alliance
+### Schlüsselstelle Händler
 
- ![Die Lastschrift ist ein einfaches Zahlverfahren, im Laden reicht die Girocard, im Internet genügen IBAN und Name](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%201115%201500'%20width='1115'%20height='1500'%20%3E%3C/svg%3E "Die Lastschrift ist ein einfaches Zahlverfahren, im Laden reicht die Girocard, im Internet genügen IBAN und Name")
+Das Betrugsrisiko bei Lastschriften tragen stets die Händler. Der Gesetzgeber will mit dem Widerrufsrecht für Lastschriften vorrangig Verbraucher schützen. Wenn jemand eine betrügerische Lastschrift zurückholt, bleibt ein Händler also grundsätzlich auf dem Schaden sitzen. Immerhin haben Händler einige Möglichkeiten, Betrug auszuschließen oder die Folgen zumindest zu mildern.
 
-Die Lastschrift ist ein einfaches Zahlverfahren, im Laden reicht die Girocard, im Internet genügen IBAN und Name
+Im stationären Handel bietet sich an, das Lastschriftverfahren durch das Girocard-Verfahren zu ersetzen. Dieses ist durch die PIN-Eingabe anstelle der leicht zu fälschenden Unterschrift geschützt. Den geringfügig höheren Zusatzkosten steht eine Zahlungsgarantie seitens der [Banken gegenüber](https://www.heise.de/select/ct/2024/15/seite-90) . Auch ein sorgfältiger Abgleich der Unterschriften auf der Girocard und auf dem Mandatsausdruck sowie ein zusätzlicher Blick auf den Personalausweis des Kunden können Betrugsversuche vereiteln.
 
-Foto: Heise Medien
+Onlinehändler befinden sich in einer Zwickmühle. Dem Betrugsrisiko steht gegenüber, dass viele Deutsche gern per Lastschrift zahlen und diese günstig ist. Mehr Sicherheit bekommen Onlinehändler bereits, wenn sie Lastschriften auf Stammkunden beschränken. Je nach Zahlungsdienstleister können sie außerdem Produktgruppen wie digitale Güter ausschließen. Auch Maximalbeträge wie 100 Euro für Lastschriftzahlungen begrenzen mögliche Schäden; oberhalb dieses Limits müssen Kunden dann auf besser gesicherte Zahlarten wie Kreditkarten oder PayPal ausweichen. Viele Lastschriftbetrüger dürften einen Shop mit solchen Bedingungen meiden, und viele Kunden dürften derlei Einschränkungen nachvollziehen können.
 
- ![Hat man kein PayPal-Konto, kann man oft alternativ »Mit Kredit- oder Debitkarte zahlen«. Dahinter verbergen sich auch Lastschriften.](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%20944%201458'%20width='944'%20height='1458'%20%3E%3C/svg%3E "Hat man kein PayPal-Konto, kann man oft alternativ »Mit Kredit- oder Debitkarte zahlen«. Dahinter verbergen sich auch Lastschriften.")
+Einige Zahlungsdienstleister versichern Lastschriften ähnlich wie Rechnungen gegen Betrug oder kaufen Händlern die Forderungen ab. Dafür zahlen diese jedoch oft hohe Provisionen oder Abschläge. Ein anderer Weg sind spezialisierte und mit einer Erlaubnis der Finanzdienstleistungsaufsicht ausgestattete Kontoinformationsdienste. Diese prüfen, ob eine IBAN dem vorgeblichen Kunden tatsächlich gehört. Dazu loggt der Kunde sich über den Dienst einmalig in sein Onlinebanking ein, dieser gleicht Identität und IBAN ab und meldet dem Händler ein Ja oder Nein zurück. So bekamen Lidl und die Deutsche Bahn den Lastschriftbetrug in den Griff. Allerdings reagierten viele Kunden ablehnend auf das im Prozess geforderte, schlecht erklärte Log-in ins Onlinebanking.
 
-Hat man kein PayPal-Konto, kann man oft alternativ »Mit Kredit- oder Debitkarte zahlen«. Dahinter verbergen sich auch Lastschriften.
+Wachsam sollten Händler außerdem bei Bestelländerungen durch den Kunden sein und Differenzbeträge keinesfalls per Überweisung zurückerstatten. Besser ist es, wenn der Kunde eine Rücklastschrift einleitet. Andernfalls kann es passieren, dass ein Betrüger [Überweisung _und_ Rücklastschrift einstreicht](https://www.heise.de/select/ct/2023/08/seite-102) .
 
-Foto: Heise Medien
+### Fazit
 
- ![Im Onlinebanking findet man zu einer Lastschrift alle relevanten Daten und kann sie dort bei den meisten Banken auch widerrufen](https://www.spiegel.de/netzwelt/web/www.w3.org/2000/svg'%20viewBox='0%200%201500%201078'%20width='1500'%20height='1078'%20%3E%3C/svg%3E "Im Onlinebanking findet man zu einer Lastschrift alle relevanten Daten und kann sie dort bei den meisten Banken auch widerrufen")
+Aus Kundensicht ist die Lastschrift einfach und durch die Widerrufsmöglichkeit sehr sicher. Mit methodischem Vorgehen können Verbraucher bei Lastschriftbetrug nicht nur ihr Geld zurückbekommen, sondern auch Ärger mit Inkassobüros vermeiden. Den Schaden trägt am Ende nämlich immer der Händler.
 
-Im Onlinebanking findet man zu einer Lastschrift alle relevanten Daten und kann sie dort bei den meisten Banken auch widerrufen
-
-Foto: Heise Medien
-
-![](https://spiegel.met.vgwort.de/na/vgzm.2780134-6e5e70d1-533a-4a93-91fa-e11d961b5ba7)<iframe height="0" width="0"></iframe>
-
-![](https://bat.bing.net/action/0?ti=5279339&tm=al001&Ver=2&mid=e2483af6-f60e-4f64-9e36-02aa207b4f95&bo=2&pi=918639831&lg=de-DE&sw=3440&sh=1440&sc=24&tl=Lastschriftbetrug%3A%20So%20sch%C3%BCtzen%20Sie%20sich%20-%20DER%20SPIEGEL&p=https%3A%2F%2Fwww.spiegel.de%2Fnetzwelt%2Fweb%2Flastschriftbetrug-so-schuetzen-sie-sich-a-6e5e70d1-533a-4a93-91fa-e11d961b5ba7&r=https%3A%2F%2Fwww.spiegel.de%2F&lt=122&pt=1739177293753,,,,,1,1,1,1,1,,1,35,35,52,118,119,119,122,122,122&pn=0,0&evt=pageLoad&sv=1&asc=D&cdb=AQAc&rn=288543)
-
-<iframe marginwidth="0" marginheight="0" scrolling="no" frameborder="0" id="1a468a8b95f23e" width="0" height="0" src="about:blank" name="__pb_locator__"></iframe>
-
-![](https://uss.xplosion.de/usersync?sid=97578&fpid=40441805362825313662379336738545469342)![](https://uss.xplosion.de/usersync?sid=97578&fpid=undefined)
+Händler wiederum können sich absichern, indem sie Lastschriften mit Schutzmaßnahmen wie der Beschränkung auf Stammkunden oder Betragsobergrenzen versehen. Dann bleibt die Lastschrift im Interesse aller ehrlichen Beteiligten nachhaltig preisgünstig, ohne es Betrügern allzu leicht zu machen.
