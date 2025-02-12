@@ -1,4 +1,4 @@
-## web - working npm config
+## web - working npm config 2025-02-12
 
 ```bash
 @azure/msal-browser               3.10.0    3.28.1    4.2.1  node_modules/@azure/msal-browser             web
