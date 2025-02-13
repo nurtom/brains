@@ -18,4 +18,4 @@ src/bin/cli -t config -a listFeatures
 src/bin/cli -t config -a enableFeature -p mealPlanner
 ```
 
-Oder https://<domain>/install/system-check.php aufrufen und auf __Open Setup__ klicken.
+Oder https://domain.hortpro.de/install/system-check.php aufrufen und auf __Open Setup__ Link klicken.
