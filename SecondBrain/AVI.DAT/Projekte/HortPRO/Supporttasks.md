@@ -17,3 +17,5 @@ src/bin/cli -t config -a listFeatures
 # enable feature meal planner
 src/bin/cli -t config -a enableFeature -p mealPlanner
 ```
+
+Oder https://<domain>/install/system-check.php aufrufen und auf __Open Setup__ klicken.
