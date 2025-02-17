@@ -1,13 +1,12 @@
 ---
-title: "Why does it feel like the world is falling apart? | Brian Klaas"
-source: "https://www.youtube.com/watch?v=TLm6dC34gYk"
-author:
-  - "[[Big Think]]"
+title: Why does it feel like the world is falling apart? | Brian Klaas
+source: https://www.youtube.com/watch?v=TLm6dC34gYk
+author: Brian Klaas
 published: 2024-12-20
 created: 2025-02-17
-description: "“We've engineered a volatile world where Starbucks is completely unchanging from year to year, but democracies are collapsing and rivers are drying up.”Subscribe to Big Think on YouTube ► https://ww"
+description: “We've engineered a volatile world where Starbucks is completely unchanging from year to year, but democracies are collapsing and rivers are drying up.”Subscribe to Big Think on YouTube ► https://ww
 tags:
-  - "clippings"
+  - clippings
 ---
 ![](https://www.youtube.com/watch?v=TLm6dC34gYk)  
 
@@ -28,20 +27,9 @@ Timestamps:
 6:06: The sandpile model  
 6:47: Basins of attraction  
 7:49: Black swan events  
-  
-Read the video transcript ► https://bigthink.com/series/explain-it-like-im-smart/brian-klaas/?utm\_source=youtube&utm\_medium=video&utm\_campaign=youtube\_description  
-  
-\----------------------------------------------------------------------------------  
-  
-Go Deeper with Big Think:  
-  
-►Become a Big Think Member  
-Get exclusive access to full interviews, early access to new releases, Big Think merch and more. https://members.bigthink.com/?utm\_source=youtube&utm\_medium=video&utm\_campaign=youtube\_description  
-  
-►Get Big Think+ for Business  
-Guide, inspire and accelerate leaders at all levels of your company with the biggest minds in business. https://bigthink.com/plus/great-leaders-think-big/?utm\_source=youtube&utm\_medium=video&utm\_campaign=youtube\_description  
-  
-\----------------------------------------------------------------------------------  
+
+> [!orbit]
+> The speaker discusses how modern humans experience a world with local stability but global instability, contrasting it with the past where people lived with local instability but global stability. They explain that our daily lives are more predictable than ever before, but the world is changing faster than ever, leading to more profound and immediate ripple effects when things go wrong. The speaker then discusses the limitations of linear thinking in understanding complex systems and introduces the concept of non-linear thinking and complex systems theory. They also discuss several assumptions that have been incorrect in understanding social change and how the world has shifted, making these assumptions incorrect not because they were wrong in the past but because the world has changed. The speaker concludes by discussing the sandpile model and the importance of understanding the interconnectedness and adaptability of complex systems.
   
 About Brian Klaas:  
   
