@@ -19,3 +19,27 @@ src/bin/cli -t config -a enableFeature -p mealPlanner
 ```
 
 Oder https://domain.hortpro.de/install/system-check.php aufrufen und auf __Open Setup__ Link klicken.
+
+## Datenschutz Betroffenenanfrage Elternportal
+#datenschutz
+
+Um unsere Auskunftspflicht nachzukommen, müssen wir ad-hoc beantworten können, ob wir Daten zu einem speziellen Nutzer in unserem System speichern. Üblicherweise bekommen wir Name und Naschrift einer Person dazu.
+
+Mit Elternportal Produktivsystem verbinden
+```bash
+ssh ep-prod-web1
+cd /var/hortpro/elternportal/server
+cat .env
+# Datenbank credentials copy paste
+
+mysql -h 192.168.7.20 -uelternportal -p
+```
+
+>[!warning]
+>Das Suchen via ```heptools user:search``` reich nicht aus, da hier nur die E-Mail als Suchkriterium genutzt wird!
+
+Datensatz per MySQL finden, z.B. per Nachnamen:
+```mysql
+USE elternportal;
+SELECT * FROM user WHERE lastname LIKE '%Nachname%';
+```
