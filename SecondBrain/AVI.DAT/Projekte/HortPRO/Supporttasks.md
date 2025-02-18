@@ -36,7 +36,7 @@ mysql -h 192.168.7.20 -uelternportal -p
 ```
 
 >[!warning]
->Das Suchen via ```heptools user:search``` reich nicht aus, da hier nur die E-Mail als Suchkriterium genutzt wird!
+>Das Suchen via ```heptools user:search``` reicht nicht aus, da hier nur die E-Mail Adresse als Suchkriterium genutzt wird!
 
 Datensatz per MySQL finden, z.B. per Nachnamen:
 ```mysql
