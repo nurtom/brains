@@ -35,3 +35,16 @@ export const userIdFromJWT = (jwtToken: string): string | undefined => {
     }
 }
 ```
+
+# React development
+
+### Ensure file watcher is working
+#react
+
+```bash
+cat /proc/sys/fs/inotify/max_user_watches
+echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+cat /proc/sys/fs/inotify/max_user_watches
+```
+
+

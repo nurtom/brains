@@ -16,4 +16,11 @@ mysqldump databasename --not-tablespaces --lock-tables=false > dump.sql
 WHERE date < DATEADD(day, -30, GETDATE())
 ```
 
+### create user and table
+#mysql 
 
+```mysql
+CREATE USER 'mynab'@'localhost' IDENTIFIED BY 'mynab';
+CREATE DATABASE mynab;
+GRANT ALL PRIVILEGES ON database_name.* TO 'database_user'@'localhost';
+```
