@@ -1,14 +1,12 @@
 ---
 title: "Finanztip-Berechnung: Die Eine-Million-Euro-Rentenlücke"
-source: "https://www.tagesschau.de/wirtschaft/finanzen/rentenluecke-altersvorsorge-finanztip-100.html?utm_source=firefox-newtab-de-de"
-author:
-  - "[[Till Bücker]]"
-  - "[[tagesschau.de]]"
+source: https://www.tagesschau.de/wirtschaft/finanzen/rentenluecke-altersvorsorge-finanztip-100.html?utm_source=firefox-newtab-de-de
+author: "[[Till Bücker]]"
 published: 2025-02-20
 created: 2025-02-21
-description: "Fachleute prognostizieren düstere Szenarien für zukünftige Renten. Aktuelle Berechnungen von Finanztip zeigen, wie groß die Rentenlücke ohne private Vorsorge ausfallen wird. Von Till Bücker."
+description: Fachleute prognostizieren düstere Szenarien für zukünftige Renten. Aktuelle Berechnungen von Finanztip zeigen, wie groß die Rentenlücke ohne private Vorsorge ausfallen wird. Von Till Bücker.
 tags:
-  - "clippings"
+  - clippings
 ---
 ## Berechnungen von Finanztip Die Eine-Million-Euro-Rentenlücke
 
