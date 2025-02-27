@@ -24,3 +24,8 @@ Timestamps:
 06:46 Generating the certificate  
 08:32 Setting up domains  
 11:02 Outro
+
+### Gist
+1. Domain bei duckdns.org hinzufügen und auf eine IP im privaten Netz (Diskstation) zeigen lassen
+2. Eine Ausnahme unter DNS-Rebind Schutz in den Netzwerkeinstellungen der Fritzbox für die neue/eigene duckdns Domain hinzufügen
+3. Node Proxy Manager als Docker container im privaten Netzwerk (Diskstation) installieren
