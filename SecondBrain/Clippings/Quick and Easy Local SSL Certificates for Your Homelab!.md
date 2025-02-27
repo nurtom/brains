@@ -11,6 +11,9 @@ tags:
 ---
 ![](https://www.youtube.com/watch?v=qlcVx-k-02E)  
 
+> [!error]
+> For anyone using a fritzbox router: You have to add your full domain as an exception to the "DNS rebind protection", because the fritzbox does not allow DNS resolution of domain names that point to private ips to protect against DNS rebinding attacks
+
 Timestamps:  
 00:00 Intro  
 00:57 How does it work?  
