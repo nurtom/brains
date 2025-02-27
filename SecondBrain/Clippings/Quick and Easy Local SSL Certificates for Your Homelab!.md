@@ -27,8 +27,19 @@ Timestamps:
 
 ### Gist
 1. Domain bei duckdns.org hinzufügen und auf eine IP im privaten Netz (Diskstation) zeigen lassen
-2. Eine Ausnahme unter DNS-Rebind Schutz in den Netzwerkeinstellungen der Fritzbox für die neue/eigene duckdns Domain hinzufügen
+2. Ausnahmen unter DNS-Rebind Schutz in den Netzwerkeinstellungen der Fritzbox für die jede duckdns Domain und Subdomain hinzufügen (ein Eintrag pro Zeile)
 3. Die Diskstation bindet Port 80 und 443 default, braucht das auch für Dienste wie SynologyDrive etc. Daher ist es sinnvoll eine separate VM im Virtual Machine Manager anzulegen (Ubuntu Server), darauf Docker zu installieren und dann darauf Nginx Proxy Manger auszuführen
 4. Docker im Ubuntu installieren: https://docs.docker.com/engine/install/ubuntu/ und https://docs.docker.com/engine/install/linux-postinstall/
-5. Die IP im Duck DNS muss dann auf die IP der VM zeigen!
-6. 
+5. Die IP im Duck DNS muss dann auf die IP der VM zeigen wo Nginx Proxy Manager lauert!
+6. im nginx proxy manager: ssl Zertifikate anlegen: `nurtom.duckdns.org` und `*.nurtom.duckdns.org`
+7. als Provider duckdns auswählen und token eintragen (mehrfach anfragen evtl. mit der lease time spielen)
+8. Hosts anlegen
+
+Für Internetausfallsicherheit in Adguard -> Filter -> Benutzerdefnierte Filterregeln alle Domains nochmal hinzufügen
+
+```ini
+192.168.22.142 npm.nurtom.duckdns.org
+192.168.22.52 adguard.nurtom.duckdns.org
+192.168.22.52 diskstation.nurtom.duckdns.org
+192.168.22.52 plex.nurtom.duckdns.org
+```
