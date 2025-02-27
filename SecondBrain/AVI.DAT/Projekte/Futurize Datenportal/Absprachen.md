@@ -17,8 +17,7 @@
 - Hausnummernzusatz kann auch ein längerer String sein
 - nächste Swagger mit an Pavel schicken
  
-
-### Todo
+ ### Todo
 Wenn Selektionskriterien von ion2s kommen:
 
 - [ ] nochmal Swagger überarbeiten und direkt raus schicken
