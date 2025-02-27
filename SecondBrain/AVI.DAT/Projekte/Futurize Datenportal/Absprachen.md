@@ -2,3 +2,4 @@
 - Selektionskriterien: wir bekommen eine Liste (String[] im JSON) der aktivierten Selektionskriterien
 - Reporting: nicht nur Mengen sondern auch "objectsMailed" (mit allen Properties die am Objekt verfügbar sind)
 - campaignId: keine UUID mehr
+- 
