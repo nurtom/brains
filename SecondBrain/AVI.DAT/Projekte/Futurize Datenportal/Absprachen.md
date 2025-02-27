@@ -1,0 +1,2 @@
+- Selektionskriterien, nicht nur ja/nein, sondern auch abhängige Schalter
+- 
