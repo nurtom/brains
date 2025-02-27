@@ -3,3 +3,6 @@
 - Reporting: nicht nur Mengen sondern auch "objectsMailed" (mit allen Properties die am Objekt verfügbar sind)
 - campaignId: keine UUID mehr
 - campaignObjects: residentialCount noch dazu plz, in zip
+- divakom_agreement nur noch Pflicht wenn nicht Eigenversand
+- Hausnummernzusatz kann auch ein längerer String sein
+- 
