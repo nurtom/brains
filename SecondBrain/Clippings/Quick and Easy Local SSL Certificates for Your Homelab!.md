@@ -35,11 +35,11 @@ Timestamps:
 7. als Provider duckdns auswählen und token eintragen (mehrfach anfragen evtl. mit der lease time spielen)
 8. Hosts anlegen
 
-Für Internetausfallsicherheit in Adguard -> Filter -> Benutzerdefnierte Filterregeln alle Domains nochmal hinzufügen
+Für Internetausfallsicherheit in Adguard -> Filter -> Benutzerdefnierte Filterregeln: alle Domains nochmal hinzufügen und auf Nginx Proxy Manager zeigen lassen:
 
 ```ini
 192.168.22.142 npm.nurtom.duckdns.org
-192.168.22.52 adguard.nurtom.duckdns.org
-192.168.22.52 diskstation.nurtom.duckdns.org
-192.168.22.52 plex.nurtom.duckdns.org
+192.168.22.142 adguard.nurtom.duckdns.org
+192.168.22.142 diskstation.nurtom.duckdns.org
+192.168.22.142 plex.nurtom.duckdns.org
 ```
