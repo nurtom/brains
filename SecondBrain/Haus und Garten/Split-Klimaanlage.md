@@ -3,3 +3,5 @@ es gibt für die Pana ein HASC Program. Das erstmal installieren. Dann kannst du
 https://www.hacs.xyz/
 
 aus Kommentaren: https://www.youtube.com/watch?v=Ul8rfn_xs0Q
+
+https://www.shopclima.it/it/catalogsearch/result/?q=heatcharge
