@@ -9,3 +9,5 @@ https://www.shopclima.it/it/catalogsearch/result/?q=heatcharge
 ### Taktung mit HomeAssistant vermeiden
 
 https://www.youtube.com/watch?v=Gy9MIwoyvJw
+
+https://www.haustechnikdialog.de/Forum/t/257158/Klimaanlage-Panasonic-Etherea-Leistungsproblem-Heizen?page=17
