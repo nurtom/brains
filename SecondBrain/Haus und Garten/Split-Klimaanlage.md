@@ -5,3 +5,7 @@ https://www.hacs.xyz/
 aus Kommentaren: https://www.youtube.com/watch?v=Ul8rfn_xs0Q
 
 https://www.shopclima.it/it/catalogsearch/result/?q=heatcharge
+
+### Taktung mit HomeAssistant vermeiden
+
+https://www.youtube.com/watch?v=Gy9MIwoyvJw
