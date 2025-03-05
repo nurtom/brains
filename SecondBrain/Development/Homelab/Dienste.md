@@ -23,3 +23,4 @@ https://budget.nurtom.de
 
 ### Vaultwarden (keine Live-Daten)
 https://vault.nurtom.de
+- Hardening notwendig: https://github.com/dani-garcia/vaultwarden/wiki/Hardening-Guide
