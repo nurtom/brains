@@ -14,6 +14,7 @@ https://github.com/ente-io/ente/blob/main/server/docs/docker.md
 ### Fotos aus Google raus holen
 https://ente.io/blog/google-takeout/
 https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper
+https://takeout.google.com/takeout/transfer/custom/photos?destination=TRANSFER&cloudAuthFailed=true
 
 ## Private Firefox Sync
 https://github.com/mozilla-services/syncstorage-rs
