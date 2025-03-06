@@ -43,3 +43,4 @@ Datensatz per MySQL finden, z.B. per Nachnamen:
 USE elternportal;
 SELECT * FROM user WHERE lastname LIKE '%Nachname%';
 ```
+
