@@ -1,3 +1,7 @@
+## Create an public private key and add public key to authorized_keys
+
+
+
 ## show firewall rules
 
 ```bash
