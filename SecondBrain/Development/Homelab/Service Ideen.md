@@ -18,3 +18,6 @@ https://takeout.google.com/takeout/transfer/custom/photos?destination=TRANSFER&c
 
 ## Private Firefox Sync
 https://github.com/mozilla-services/syncstorage-rs
+
+## Youtube Manager
+https://github.com/kieraneglin/pinchflat?ref=selfh.st
