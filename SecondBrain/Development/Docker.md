@@ -11,3 +11,12 @@ or
 ```bash
 docker exec -it eb0a6adb1391 bash
 ```
+
+## Make the container reachable to an external client
+
+Port Bindings can be include the IP of the Host-Machine, e.g. in docker-compose.yml:
+
+```yml
+ports:
+	- 10.9.79.35:3003:3003
+```
