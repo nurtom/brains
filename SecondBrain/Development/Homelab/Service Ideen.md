@@ -1,3 +1,5 @@
+- https://european-alternatives.eu/
+
 ### Avatar Directory Service
 https://git.shivering-isles.com/shivering-isles/libravatar-nginx
 
