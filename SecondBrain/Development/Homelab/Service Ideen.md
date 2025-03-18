@@ -1,5 +1,6 @@
+### Allgemein
 - https://european-alternatives.eu/
-
+- https://martijnhols.nl/blog/moving-away-from-us-cloud-services
 
 ### NPM Registry
 https://verdaccio.org/docs/installation
