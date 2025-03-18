@@ -48,3 +48,18 @@ cat /proc/sys/fs/inotify/max_user_watches
 ```
 
 
+## Vite: don't inline assets
+
+Set ```assetsInlineLimit: 0``` in ```vite.config.ts```
+
+```ts
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
+
+export default defineConfig({
+  plugins: [react()],
+  build: {
+    assetsInlineLimit: 0,
+  },
+});
+```
