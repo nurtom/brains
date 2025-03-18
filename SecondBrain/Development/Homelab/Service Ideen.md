@@ -1,5 +1,8 @@
 - https://european-alternatives.eu/
 
+
+### NPM Registry
+https://verdaccio.org/docs/installation
 ### Avatar Directory Service
 https://git.shivering-isles.com/shivering-isles/libravatar-nginx
 
