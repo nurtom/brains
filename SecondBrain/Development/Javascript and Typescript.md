@@ -38,6 +38,10 @@ export const userIdFromJWT = (jwtToken: string): string | undefined => {
 
 # React development
 
+### Modules
+- https://www.npmjs.com/package/use-local-storage
+- 
+
 ### Ensure file watcher is working
 #react
 
