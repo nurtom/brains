@@ -1,0 +1,6 @@
+- Monblock hat direkte Anschlüsse an Vor- und Rücklauf
+	- Keine Handtieren mit Kältemittel notwendig
+- Speicher im Rücklauf: https://www.youtube.com/watch?v=bdisNWphXFc ca. 11min
+	- Mindestvolumenstrom bei abgedrehten Heizkörpern
+	- Abtauenergie: Soll genug Wärmedifferenz speichern um Abtauvorgang der Wärmepumpe zu kompensieren (Größenordnung 500W)
+	- Effizienz: kaum Verluste da kein und relativ kalt, da im Rücklauf
