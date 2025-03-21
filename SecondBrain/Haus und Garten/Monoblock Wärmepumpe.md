@@ -6,5 +6,3 @@
 	- Effizienz: kaum Verluste da kein und relativ kalt, da im Rücklauf
 - Planung und Einbau Geisha: https://www.youtube.com/watch?v=99oEgDScgbU&list=PLs_sASzjKiBDlTvJt3gEgBnI9ojJDSl7n
 - Normaußentemperatur: https://www.waermepumpe.de/werkzeuge/klimakarte/
-
-
