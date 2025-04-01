@@ -2,6 +2,8 @@
 - https://european-alternatives.eu/
 - https://martijnhols.nl/blog/moving-away-from-us-cloud-services
 
+https://kiranet.org/self-hosting-like-its-2025/
+
 ### NPM Registry
 https://verdaccio.org/docs/installation
 ### Avatar Directory Service
