@@ -20,3 +20,11 @@ Port Bindings can be include the IP of the Host-Machine, e.g. in docker-compose.
 ports:
 	- 10.9.79.35:3003:3003
 ```
+
+## update stack running via docker compose 
+
+```bash
+docker-compose pull
+docker-compose up --force-recreate --build -d
+docker image prune -f
+```
