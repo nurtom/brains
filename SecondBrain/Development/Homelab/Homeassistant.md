@@ -12,3 +12,4 @@ services:
 		privileged: true
 		network_mode: host
 ```
+
