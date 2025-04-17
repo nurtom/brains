@@ -5,11 +5,35 @@
 
 # Notes
 ## Lokale Sprachverarbeitung
-### Integrationen
+### Benötigte Integrationen
 #### Wyoming Protocol
-Kommunikation zwischen den Services
+- Kommunikation zwischen den Services, wird als Integration im HA aktiviert
 #### Whisper
-Speech to text
+- Speech to text
+- Dienst kann irgendwo separat laufen, muss in der Integration konfiguriert werden
 #### Piper
-Text to speech
+- Text to speech
+- Dienst kann irgendwo separat laufen, muss in der Integration konfiguriert werden
 
+
+## Beispiel Voice Commands
+
+okay nabu ...
+
+```text
+küche pause
+küche weiter
+küche stop
+
+nächster titel küche
+pausiere küche
+küche fortsetzen
+küche lautstärke auf 40%
+stoppe küche
+
+wie ist die temperatur im wohnzimmer?
+
+wie ist der solarertrag?
+
+
+```
