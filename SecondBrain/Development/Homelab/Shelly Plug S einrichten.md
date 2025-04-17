@@ -11,5 +11,8 @@
 - eventuell weitere individuelle Einstellungen
 
 ## Im Home Assistant einbinden
+- Device recovery
+- Area zuordnen
+- Für Sprachassistententen verfügbar machen und umbenennne bzw. Alias anlegen
 
 
