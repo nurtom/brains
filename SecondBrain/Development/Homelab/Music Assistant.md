@@ -5,3 +5,6 @@
 2. Docker compose install: https://www.music-assistant.io/installation/
 3. In Music Assistant Einstellungen: Plugin-Anbieter: Home Assistant aktivieren
 4. In Home Assistant Integration hinzufügen (Music Assistant)
+
+## Recherche
+- Audio in the Open Home https://www.youtube.com/watch?v=SEH-DxOsywg&t=274s
