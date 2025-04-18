@@ -8,3 +8,10 @@
 
 ## Recherche
 - Audio in the Open Home https://www.youtube.com/watch?v=SEH-DxOsywg&t=274s
+
+## Anbindung LS
+
+### HiFiBerry Digi2 Pro
+https://www.hifiberry.com/shop/boards/digi2-pro/
+### HiFiBerry DAC2 Pro
+https://www.hifiberry.com/shop/boards/dac2-pro/
