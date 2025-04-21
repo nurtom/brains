@@ -37,3 +37,7 @@ wie ist der solarertrag?
 
 
 ```
+
+
+## Create custom Piper voices
+https://www.reddit.com/r/homeassistant/comments/1df3t1v/piper_custom_voices/
