@@ -29,3 +29,6 @@ https://github.com/mozilla-services/syncstorage-rs
 
 ## Youtube Manager
 https://github.com/kieraneglin/pinchflat?ref=selfh.st
+
+## LibreTranslate
+https://libretranslate.com
