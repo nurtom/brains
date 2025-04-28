@@ -9,3 +9,6 @@ https://discuss.grapheneos.org/d/17640-i-just-installed-grapheneos-where-do-i-ge
 ## Notes
 https://alternativeto.net/software/standard-notes/about/ (mal recherchieren ob das Obsidian ersetzen könnte)
 https://alternativeto.net/software/joplin/about/
+
+## eBooks
+https://github.com/koreader/koreader/releases
