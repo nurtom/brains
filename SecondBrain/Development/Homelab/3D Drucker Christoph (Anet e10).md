@@ -1,5 +1,5 @@
 
->NICHT UNBEAUFSICHTIGT LASSEN (BRANDGEFAHR)
+>__BRANDGEFAHR - NICHT UNBEAUFSICHTIGT LASSEN__
 
 - Mosfet ist theoretisch für einen Umbau um Strom nicht über Hauptplatine zu legen (Brandgefahrreduzierung!)
 - PLA trocken lagern (vor Luftfeuchtigkeit schützen)
